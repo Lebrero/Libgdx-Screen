@@ -1,2 +1,0 @@
-# -Libgdx-Screen
-Pantalla
